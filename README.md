@@ -28,10 +28,11 @@ This is a simple and responsive portfolio website built using **React.js**. It h
 
 
 ##  🚀 How to Run Locally
-git clone https://github.com/YOUR_USERNAME/react-portfolio.git
-cd react-portfolio
-npm install
-npm run dev
+
+- git clone https://github.com/Priyanshii573/react-portfolio.git
+- cd react-portfolio
+- npm install
+- npm run dev
 
 
 ## 📁 Project Structure
